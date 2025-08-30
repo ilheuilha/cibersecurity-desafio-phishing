@@ -19,3 +19,4 @@
 
 ### Resutados
 
+![Texto Alternativo da Imagem](.png)
