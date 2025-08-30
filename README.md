@@ -4,6 +4,7 @@
 
 - Kali Linux
 - setoolkit
+- Windows 7 com windows explorer
 
 ### Configurando o Phishing no Kali Linux
 
